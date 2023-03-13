@@ -1,3 +1,5 @@
+LOCAL
+
 # quete-5-github
 
 voici quelques lignes de texte pour l'exemple :
